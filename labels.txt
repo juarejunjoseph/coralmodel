@@ -1,0 +1,23 @@
+0 Bean Coral Euphyllia fimbriata
+1 Bubble Coral Plerogyra sinuosa
+2 Cauliflower Coral Pocillopora meandrina
+3 Cherry Blossom Coral Siphonogorgia godeffroyi
+4 Colonial anemone zebra
+5 Boulder Brain Coral Colpophyllia natans
+6 Corallimorpharian Paracorynactis hoplites
+7 Crown of thorms starfish
+8 Cushion star
+9 Finger Coral Acropora humilis
+10 Flower pot coral Goniopora spp.
+11 Hell's Fire Anemone Actinodendron plumosum
+12 Lettuce Coral Pectinia lactuca
+13 Mushroom Leather Coral Sarcophyton sp.
+14 Octopus Coral Galaxea fascicularis
+15 Orange Wire Sea Fan Acanthogorgia sp.
+16 Organ pipe Coral Tubipora Musical
+17 Sinuous Cup Coral Symphyllia agaricia
+18 Soft coral peach komodo
+19 Staghorn Coral Staghorn Coral
+20 Sunburst Sea Anemone Phymanthus pinnulatus
+21 Tombstone Coral Coeloseris mayeri
+22 Torch Coral Caulastrea tumida
